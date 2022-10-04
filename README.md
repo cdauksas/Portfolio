@@ -6,6 +6,11 @@
 - Created visualizations in Tableau for the stakeholders
 - [View the project here](https://github.com/cdauksas/BikeShare)	:white_check_mark:
 
+## Video Game Sales 1976-2017 Analysis with SQL and Visualizations in Tableau :video_game:
+- Cleaned and Analyzed video game sales data with Google's Bigquery
+- Created a dashboard of 4 graphs in Tableau Public
+- [View the Project Here](https://github.com/cdauksas/VideoGameSales/blob/main/README.md) :white_check_mark:
+
 
 ##  Nashville Housing Data cleaning in SQL 	:house_with_garden:
 - Cleaned data using Microsoft SQL Server
