@@ -19,7 +19,3 @@
 ##  Nashville Housing Data cleaning in SQL 	:house_with_garden:
 - Cleaned data using Microsoft SQL Server
 - [View the Project Here](https://github.com/cdauksas/Nashville/tree/main/nashville)	:white_check_mark:
-
-##  Olympic History Exploratory Data Analysis - Kaggle Dataset	:earth_africa:
-- Analyzed 120 years of olympic data and athelete events using Microsoft SQL Server
-- [View the Project Here](https://github.com/cdauksas/120-Years-Olympic-History-EDA/tree/main/Olympic)	:white_check_mark:
