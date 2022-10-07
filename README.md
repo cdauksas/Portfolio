@@ -1,4 +1,8 @@
-# **SQL and Tableau Projects**
+# **Casey Dauksas Data Portfolio Projects**
+
+## Colorado Licensed Professionals and Demographics Correlation Using SQL Server and Tableau :mountain_snow:
+- I asked the question: For various licensed professionals in the state of Colorado, are there any characteristics (e.g., household income levels) at the county level that are highly associated with various professions?
+- [View the project here](https://github.com/cdauksas/Colorado_Demographics_and_Labor_Correlation/blob/main/README.md)	:white_check_mark:
 
 ##  Clyclistic Marekting Analysis in SQL and Tableau  :bike:
 - Analyzed 12 months of Divvy data to convert casual riders into annual members.
