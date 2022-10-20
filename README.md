@@ -4,7 +4,7 @@
 - I asked the question: For various licensed professionals in the state of Colorado, are there any characteristics (e.g., household income levels) at the county level that are highly associated with various professions?
 - [View the project here](https://github.com/cdauksas/Colorado_Demographics_and_Labor_Correlation/blob/main/README.md)	:white_check_mark:
 
-##  Clyclistic Marekting Analysis in SQL and Tableau  :bike:
+##  Cyclistic Marekting Analysis in SQL and Tableau  :bike:
 - Analyzed 12 months of Divvy data to convert casual riders into annual members.
 - Used Microsoft SQL Server to clean, transform, and analyze the data
 - Created visualizations in Tableau for the stakeholders
